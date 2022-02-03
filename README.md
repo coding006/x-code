@@ -65,10 +65,10 @@ apt install -y linux-headers-$(uname -r)
  
 ![Screenshot_20220203_061910](https://user-images.githubusercontent.com/96321013/152276028-439a0810-3097-41cb-9e47-c7d92874fc5d.jpg)
 
-  ## Menu : Yellow Theme
+  ## Status Running
  
-![Screenshot_20211230_162632 (2)](https://user-images.githubusercontent.com/96321013/147735000-fd70aa2b-0d76-4764-a6f9-0daa94782763.jpg)
- 
+![IMG_20220204_040910](https://user-images.githubusercontent.com/96321013/152420954-3109dbf8-98d7-47f7-af2d-043d4cd309ee.jpg)
+
   ## Menu : Colourfull Theme
  
  ![Screenshot_20211230_162602 (2)](https://user-images.githubusercontent.com/96321013/147735190-8da09151-bc0c-4f53-8461-99d7bc29733f.jpg)
