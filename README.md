@@ -63,8 +63,8 @@ apt install -y linux-headers-$(uname -r)
 
  ## Menu : Blue Theme
  
-![Screenshot_20211230_162618 (2)](https://user-images.githubusercontent.com/96321013/147734905-c862d847-be1f-42c7-9b78-5d1dcc8e85c4.jpg)
- 
+![Screenshot_20220203_061910](https://user-images.githubusercontent.com/96321013/152276028-439a0810-3097-41cb-9e47-c7d92874fc5d.jpg)
+
   ## Menu : Yellow Theme
  
 ![Screenshot_20211230_162632 (2)](https://user-images.githubusercontent.com/96321013/147735000-fd70aa2b-0d76-4764-a6f9-0daa94782763.jpg)
