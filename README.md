@@ -61,7 +61,7 @@ apt install -y linux-headers-$(uname -r)
 
  ## For Buy Script : Contact Telegram @Virtual_NW <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
- ## Menu : Blue Theme
+ ## Main Menu
  
 ![Screenshot_20220203_061910](https://user-images.githubusercontent.com/96321013/152276028-439a0810-3097-41cb-9e47-c7d92874fc5d.jpg)
 
