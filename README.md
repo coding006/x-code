@@ -28,7 +28,7 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 
   ```
  
-## Installation Script
+## INSTALLATION SCRIPT
 
   ```html
   sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/coding006/x-code/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
@@ -113,7 +113,7 @@ apt install -y linux-headers-$(uname -r)
    - Fail2Ban                 : [ON]
    - DDOS Dflate              : [ON]
    - IPtables                 : [ON]
-   - Auto-Reboot              : [OFF]
+   - Auto-Reboot              : [ON]-5.00AM
    - IPv6                     : [OFF]
    - Auto-Remove-Expired      : [ON]
    - Auto Delete Expired Account
